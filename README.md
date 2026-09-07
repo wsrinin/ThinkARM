@@ -1,4 +1,4 @@
-# Schoenfeld’s Anatomy of Mathematical Reasoning by Language Models
+# Schoenfeld’s Anatomy of Mathematical Reasoning by Language Models (ACL'26 Oral, SAC Highlight)
 
 📖 [Schoenfeld’s Anatomy of Mathematical Reasoning by Language Models](https://github.com/MingLiiii/ThinkARM)
 
